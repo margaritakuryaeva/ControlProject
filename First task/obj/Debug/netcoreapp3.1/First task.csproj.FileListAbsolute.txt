@@ -1,0 +1,26 @@
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\First task\bin\Debug\netcoreapp3.1\First task.exe
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\First task\bin\Debug\netcoreapp3.1\First task.deps.json
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\First task\bin\Debug\netcoreapp3.1\First task.runtimeconfig.json
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\First task\bin\Debug\netcoreapp3.1\First task.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\First task\bin\Debug\netcoreapp3.1\First task.dll
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\First task\bin\Debug\netcoreapp3.1\First task.pdb
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\First task\obj\Debug\netcoreapp3.1\First task.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\First task\obj\Debug\netcoreapp3.1\First task.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\First task\obj\Debug\netcoreapp3.1\First task.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\First task\obj\Debug\netcoreapp3.1\First task.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\First task\obj\Debug\netcoreapp3.1\First task.dll
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\First task\obj\Debug\netcoreapp3.1\First task.pdb
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\First task\obj\Debug\netcoreapp3.1\First task.genruntimeconfig.cache
+D:\Desktop\Di\First task\bin\Debug\netcoreapp3.1\First task.exe
+D:\Desktop\Di\First task\bin\Debug\netcoreapp3.1\First task.deps.json
+D:\Desktop\Di\First task\bin\Debug\netcoreapp3.1\First task.runtimeconfig.json
+D:\Desktop\Di\First task\bin\Debug\netcoreapp3.1\First task.runtimeconfig.dev.json
+D:\Desktop\Di\First task\bin\Debug\netcoreapp3.1\First task.dll
+D:\Desktop\Di\First task\bin\Debug\netcoreapp3.1\First task.pdb
+D:\Desktop\Di\First task\obj\Debug\netcoreapp3.1\First task.csprojAssemblyReference.cache
+D:\Desktop\Di\First task\obj\Debug\netcoreapp3.1\First task.AssemblyInfoInputs.cache
+D:\Desktop\Di\First task\obj\Debug\netcoreapp3.1\First task.AssemblyInfo.cs
+D:\Desktop\Di\First task\obj\Debug\netcoreapp3.1\First task.csproj.CoreCompileInputs.cache
+D:\Desktop\Di\First task\obj\Debug\netcoreapp3.1\First task.dll
+D:\Desktop\Di\First task\obj\Debug\netcoreapp3.1\First task.pdb
+D:\Desktop\Di\First task\obj\Debug\netcoreapp3.1\First task.genruntimeconfig.cache

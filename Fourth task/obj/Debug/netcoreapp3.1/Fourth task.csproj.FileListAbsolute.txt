@@ -1,0 +1,26 @@
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\Fourth task\bin\Debug\netcoreapp3.1\Fourth task.exe
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\Fourth task\bin\Debug\netcoreapp3.1\Fourth task.deps.json
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\Fourth task\bin\Debug\netcoreapp3.1\Fourth task.runtimeconfig.json
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\Fourth task\bin\Debug\netcoreapp3.1\Fourth task.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\Fourth task\bin\Debug\netcoreapp3.1\Fourth task.dll
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\Fourth task\bin\Debug\netcoreapp3.1\Fourth task.pdb
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\Fourth task\obj\Debug\netcoreapp3.1\Fourth task.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\Fourth task\obj\Debug\netcoreapp3.1\Fourth task.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\Fourth task\obj\Debug\netcoreapp3.1\Fourth task.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\Fourth task\obj\Debug\netcoreapp3.1\Fourth task.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\Fourth task\obj\Debug\netcoreapp3.1\Fourth task.dll
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\Fourth task\obj\Debug\netcoreapp3.1\Fourth task.pdb
+C:\Users\ACER\Desktop\Шарпы\2 КН\KN\Fourth task\obj\Debug\netcoreapp3.1\Fourth task.genruntimeconfig.cache
+D:\Desktop\Di\Fourth task\bin\Debug\netcoreapp3.1\Fourth task.exe
+D:\Desktop\Di\Fourth task\bin\Debug\netcoreapp3.1\Fourth task.deps.json
+D:\Desktop\Di\Fourth task\bin\Debug\netcoreapp3.1\Fourth task.runtimeconfig.json
+D:\Desktop\Di\Fourth task\bin\Debug\netcoreapp3.1\Fourth task.runtimeconfig.dev.json
+D:\Desktop\Di\Fourth task\bin\Debug\netcoreapp3.1\Fourth task.dll
+D:\Desktop\Di\Fourth task\bin\Debug\netcoreapp3.1\Fourth task.pdb
+D:\Desktop\Di\Fourth task\obj\Debug\netcoreapp3.1\Fourth task.csprojAssemblyReference.cache
+D:\Desktop\Di\Fourth task\obj\Debug\netcoreapp3.1\Fourth task.AssemblyInfoInputs.cache
+D:\Desktop\Di\Fourth task\obj\Debug\netcoreapp3.1\Fourth task.AssemblyInfo.cs
+D:\Desktop\Di\Fourth task\obj\Debug\netcoreapp3.1\Fourth task.csproj.CoreCompileInputs.cache
+D:\Desktop\Di\Fourth task\obj\Debug\netcoreapp3.1\Fourth task.dll
+D:\Desktop\Di\Fourth task\obj\Debug\netcoreapp3.1\Fourth task.pdb
+D:\Desktop\Di\Fourth task\obj\Debug\netcoreapp3.1\Fourth task.genruntimeconfig.cache
